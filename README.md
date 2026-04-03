@@ -1,6 +1,6 @@
 # NVDIA_Image-Noise-Reduction
 
-# 🧠 Image Noise Reduction using Autoencoders (TensorFlow)
+# Image Noise Reduction using Autoencoders (TensorFlow)
 
 ## 📌 Project Overview
 This project focuses on image denoising using Deep Learning Autoencoders built with TensorFlow/Keras. The model is trained to reconstruct clean images from noisy inputs by learning efficient representations.
@@ -63,7 +63,8 @@ This significantly improved training speed and provided hands-on experience with
 ---
 
 ## 📸 Sample Output
-<!-- Add before and after images here -->
+<img width="468" height="237" alt="image" src="https://github.com/user-attachments/assets/a591ae0a-654d-4fe0-b5e6-edcb04c0bcd2" />
+
 
 ---
 
@@ -80,4 +81,9 @@ I was among the first students in my college lab to use NVIDIA GPU (via nvidia-s
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure:
+
+├── Image_Noise_Reduction_with_Autoencoders.ipynb
+├── README.md
+└── outputs/
+
